@@ -1,2 +1,2 @@
 # argocd-demo
-deploy and test argocd.
+kubectl.exe create  ns argocd
